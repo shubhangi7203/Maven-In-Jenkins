@@ -6,6 +6,7 @@
    <parameter name="Browser" value="Chrome"/> <!-- OR "Edge" -->
   <classes>
   	<class name = "mavenforjenkins.UITest"/>
+    
   	
   </classes>
   </test> <!-- Test -->
